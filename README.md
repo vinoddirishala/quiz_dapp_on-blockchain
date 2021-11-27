@@ -1,1 +1,1 @@
-# quiz_dapp_on-blockchain
+# Quiz DApp on Blockchain
